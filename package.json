@@ -1,7 +1,19 @@
 {
   "name": "aha-exam",
-  "version": "0.1.0",
-  "private": true,
+  "version": "0.0.1",
+  "homepage": "https://github.com/ken888686/aha-exam#readme",
+  "bugs": {
+    "url": "https://github.com/ken888686/aha-exam/issues",
+    "email": "ken888686@gmail.com"
+  },
+  "author": {
+    "name": "Aaron Tu",
+    "email": "ken888686@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ken888686/aha-exam.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
