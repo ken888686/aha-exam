@@ -1,4 +1,4 @@
 module.exports = {
-  publicPath: '/aha-exam',
+  publicPath: '/',
   outputDir: 'dist',
 };
