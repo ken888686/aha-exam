@@ -22,7 +22,10 @@
     "build-to-firebase": "vue-cli-service build & firebase deploy"
   },
   "dependencies": {
+    "axios": "^0.26.0",
+    "bootstrap": "^5.1.3",
     "core-js": "^3.6.5",
+    "firebase": "^9.6.8",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
     "vuex": "^4.0.0-0"
